@@ -1,0 +1,11 @@
+Product Category,Upgrade Count,Repair Count,Migrate Count,Install Count,Remove Count,CQR Count
+DC Backup System,60,1,0,0,7,68
+Optical Transport Equipment,49,2,0,4,0,55
+FIBER OPTIC TRANSPORT - FDP / OSP,15,3,2,14,0,34
+Other Transport Device,13,2,15,0,1,31
+Microwave TX/RX (Licensed),5,1,0,2,0,8
+Surge Suppression,0,8,0,0,0,8
+Antenna System,2,0,1,4,0,7
+Microwave TX/RX (Unlicensed),5,0,0,0,0,5
+Generator,2,0,0,0,0,2
+Power Strip,0,1,0,0,0,1
